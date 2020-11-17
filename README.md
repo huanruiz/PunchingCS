@@ -6,7 +6,7 @@
   - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - 数据库
-    - MySQL
+    - [MySQL](#MySQL)
     - Redis 
   - 数据结构与算法
 
@@ -28,6 +28,8 @@
 
 ### 数据库
 #### MySQL
+1. MySQL基础(https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
+2. MySQL高级(https://huanruiz.github.io/post/)
 
 #### Redis
 
