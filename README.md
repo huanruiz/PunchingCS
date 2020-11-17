@@ -28,8 +28,8 @@
 
 ### 数据库
 #### MySQL
-1. MySQL基础(https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
-2. MySQL高级(https://huanruiz.github.io/post/)
+1. [MySQL基础](https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
+2. [MySQL高级](https://huanruiz.github.io/post/)
 
 #### Redis
 
