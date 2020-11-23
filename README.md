@@ -11,6 +11,11 @@
   - 数据结构与算法
 
 ## 基础
+### JAVA
+基础看的杂, 主要就是做做实验, 读读源码. JAVA核心技术算比较全面的书籍.
+- [java集合](https://huanruiz.github.io/post/)
+- [java比较](https://huanruiz.github.io/post/)
+
 ### 计算机网络
 这部分主要看的是<计算机网络自顶向下>, 包含wireshark实验.
 1. [基础](https://huanruiz.github.io/post/csbase/5_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
@@ -27,9 +32,10 @@
 4. [设备驱动与文件系统](https://huanruiz.github.io/post/csbase/4_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E4%B8%8E%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/)
 
 ### 数据库
+这部分看的尚硅谷基础高级的视频, 配合MySQL必知必会.
 #### MySQL
 1. [MySQL基础](https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
-2. [MySQL高级](https://huanruiz.github.io/post/)
+2. [MySQL高级](https://huanruiz.github.io/post/database/2_MySQL%E9%AB%98%E7%BA%A7/)
 
 #### Redis
 
