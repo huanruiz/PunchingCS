@@ -14,7 +14,8 @@
 ### JAVA
 基础看的杂, 主要就是做做实验, 读读源码. JAVA核心技术算比较全面的书籍.
 - [java集合](https://huanruiz.github.io/post/)
-- [java比较](https://huanruiz.github.io/post/)
+- [java比较](https://huanruiz.github.io/post/java/1_Java%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%92%E5%BA%8F/)
+- [java多线程基础]()
 
 ### 计算机网络
 这部分主要看的是<计算机网络自顶向下>, 包含wireshark实验.
@@ -33,11 +34,13 @@
 
 ### 数据库
 这部分看的尚硅谷基础高级的视频, 配合MySQL必知必会.
+
 #### MySQL
 1. [MySQL基础](https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
 2. [MySQL高级](https://huanruiz.github.io/post/database/2_MySQL%E9%AB%98%E7%BA%A7/)
 
 #### Redis
+
 
 ### 数据结构与算法
 
