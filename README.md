@@ -15,7 +15,7 @@
 基础看的杂, 主要就是做做实验, 读读源码. JAVA核心技术算比较全面的书籍.
 - [java集合](https://huanruiz.github.io/post/)
 - [java比较](https://huanruiz.github.io/post/java/1_Java%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%92%E5%BA%8F/)
-- [java多线程基础]()
+- [java多线程基础](https://huanruiz.github.io/post/java/2_Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/)
 
 ### 计算机网络
 这部分主要看的是<计算机网络自顶向下>, 包含wireshark实验.
