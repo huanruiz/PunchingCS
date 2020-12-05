@@ -40,7 +40,7 @@
 2. [MySQL高级](https://huanruiz.github.io/post/database/2_MySQL%E9%AB%98%E7%BA%A7/)
 
 #### Redis
-
+~~todo~~
 
 ### 数据结构与算法
-
+[剑指offer](https://huanruiz.github.io/post/datastructure_algorithm/1_%E5%89%91%E6%8C%87offer/)
