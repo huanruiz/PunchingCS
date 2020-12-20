@@ -49,3 +49,4 @@
 [剑指offer](https://huanruiz.github.io/post/datastructure_algorithm/1_%E5%89%91%E6%8C%87offer/)
 
 - [树](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
+- [链表](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
