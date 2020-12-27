@@ -52,3 +52,4 @@
 
 - [树](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
 - [链表](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
+- [动态规划](https://huanruiz.github.io/post/datastructure_algorithm/5_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/)
