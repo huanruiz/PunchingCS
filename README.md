@@ -42,7 +42,7 @@
 1. [MySQL基础](https://huanruiz.github.io/post/database/1_MySQL%E5%9F%BA%E7%A1%80/)
 2. [MySQL高级](https://huanruiz.github.io/post/database/2_MySQL%E9%AB%98%E7%BA%A7/)
 
-#### Redisß
+#### Redis
 ~~todo~~
 
 ### 数据结构与算法
@@ -54,3 +54,4 @@
 - [链表](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
 - [动态规划](https://huanruiz.github.io/post/datastructure_algorithm/5_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/)
 - [二分法](https://huanruiz.github.io/post/datastructure_algorithm/6_%E4%BA%8C%E5%88%86%E6%B3%95/)
+- [数组](https://huanruiz.github.io/post/datastructure_algorithm/8_%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/)
