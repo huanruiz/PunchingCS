@@ -1,9 +1,9 @@
 # PunchingCS
 - 基础
   - [Java](#Java)
-    - 集合 
+    - 集合
     - 多线程
-    - JVM 
+    - JVM
   - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - [数据库](#数据库)
@@ -15,10 +15,11 @@
 ## 基础
 ### JAVA
 基础看的杂, 主要就是做做实验, 读读源码. JAVA核心技术是比较全面的书籍.
-- [Java集合](https://huanruiz.github.io/post/)
-- [Java比较](https://huanruiz.github.io/post/java/1_Java%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%92%E5%BA%8F/)
-- [Java多线程基础](https://huanruiz.github.io/post/java/2_Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/)
-- [Java多线程高级](https://huanruiz.github.io/post/java/3_Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E9%AB%98%E7%BA%A7/)
+- [集合](https://huanruiz.github.io/post/)
+- [比较](https://huanruiz.github.io/post/java/1_Java%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%92%E5%BA%8F/)
+- [多线程基础](https://huanruiz.github.io/post/java/2_Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/)
+- [多线程高级](https://huanruiz.github.io/post/java/3_Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E9%AB%98%E7%BA%A7/)
+- [JVM](https://huanruiz.github.io/categories/JVM/)
 
 ### 计算机网络
 这部分主要看的是<计算机网络自顶向下>, 包含wireshark实验. 协议部分都是一些规则记住就好了, 网络层喜欢玩组网的人会非常容易理解.
