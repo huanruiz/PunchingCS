@@ -50,7 +50,8 @@
 ### 数据结构与算法
 这一部分[labuladong](https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA)的文章给了我很多启发, 分类题大多结合labuladong的理解和我自己的理解写的. 
 
-[剑指offer](https://huanruiz.github.io/post/datastructure_algorithm/1_%E5%89%91%E6%8C%87offer/)
+- [剑指offer](https://huanruiz.github.io/post/datastructure_algorithm/1_%E5%89%91%E6%8C%87offer/)
+- [排序算法](https://huanruiz.github.io/post/datastructure_algorithm/2_%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
 
 - [树](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
 - [链表](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
