@@ -3,12 +3,12 @@
   - [Java](#Java)
     - 集合
     - 多线程
-    -  ``JVM
+    -  JVM
   - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - [数据库](#数据库)
     - [MySQL](#MySQL)
-    - Redis 
+    - Redis
   - [数据结构与算法](#数据结构与算法)
 - 框架
   - [Spring](#spring)
@@ -50,14 +50,27 @@
 ### 数据结构与算法
 这一部分[labuladong](https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA)的文章给了我很多启发, 分类题大多结合labuladong的理解和我自己的理解写的. 
 
+算法题注意事项:
+- 遇事不决先画图
+- 判断中带数组的时候, 要加上判断
+
 - [剑指offer](https://huanruiz.github.io/post/datastructure_algorithm/1_%E5%89%91%E6%8C%87offer/)
 - [排序算法](https://huanruiz.github.io/post/datastructure_algorithm/2_%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
 
 - [树](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
-- [链表](https://huanruiz.github.io/post/datastructure_algorithm/3_%E6%A0%91/)
+- [链表](https://huanruiz.github.io/post/datastructure_algorithm/4_%E9%93%BE%E8%A1%A8/)
 - [动态规划](https://huanruiz.github.io/post/datastructure_algorithm/5_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/)
 - [二分法](https://huanruiz.github.io/post/datastructure_algorithm/6_%E4%BA%8C%E5%88%86%E6%B3%95/)
+- [栈队列堆](https://huanruiz.github.io/post/datastructure_algorithm/7_%E6%A0%88%E9%98%9F%E5%88%97%E5%A0%86/)
 - [数组](https://huanruiz.github.io/post/datastructure_algorithm/8_%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/)
+- [DFS与BFS](https://huanruiz.github.io/post/datastructure_algorithm/9_DFS%E4%B8%8EBFS/)
+- [数学系列]()
+- [哈希表](https://huanruiz.github.io/post/datastructure_algorithm/11_%E5%93%88%E5%B8%8C%E8%A1%A8/)
+- [字符串]()
+- [贪心算法](https://huanruiz.github.io/post/datastructure_algorithm/13_%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/)
+- [位运算]()
+- [并查集](https://huanruiz.github.io/post/datastructure_algorithm/15_%E5%B9%B6%E6%9F%A5%E9%9B%86/)
+- [LRU](https://huanruiz.github.io/post/datastructure_algorithm/16_LRU%E4%B8%8ELFU/)
 
 ## 框架
 ### Spring
